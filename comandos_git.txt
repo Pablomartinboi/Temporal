@@ -1,4 +1,4 @@
-Listado de comandos basicos de git
+Listado de comandos basicos de git cortesia de Kenji
 
 git init // para iniciar el repositorio local
 
